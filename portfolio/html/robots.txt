@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saitejamareda.github.io/portfolio/sitemap.xml
+Host: https://saitejamareda.github.io/portfolio
