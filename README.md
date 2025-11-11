@@ -14,7 +14,7 @@ I have gained practical exposure through specialized internships, including AI d
 
 | Domain | Key Technologies & Tools |
 | :--- | :--- |
-| **Programming** | Python, C, Java, MySQL, HTML, CSS, JavaScript |
+| **Programming** | Python, MySQL, HTML, CSS, JavaScript |
 | **Data & ML** | Data Analytics, Machine Learning, Tableau, Pandas, NumPy, Scikit-learn, Streamlit |
 | **Cloud & Tools** | Cloud Fundamentals, ServiceNow, Excel, Flask, Git/GitHub |
 
@@ -45,12 +45,12 @@ These projects demonstrate my ability to execute end-to-end data science solutio
 
 My continuous learning is backed by formal training and competitive achievements:
 
-* [cite_start]**AWS Academy Graduate - AWS Academy Data Engineering** [cite: 74]
-* [cite_start]**NVIDIA-Certified Professional: AI Infrastructure (NCP-AII)** [cite: 24]
-* [cite_start]**AI Skills Passport** (EY & Microsoft) [cite: 52, 53]
-* [cite_start]**Data Analytics Job Simulation** (TATA Group/Forage) [cite: 3, 1]
-* [cite_start]**Micro-Certification - Welcome to ServiceNow** [cite: 122]
-* [cite_start]**Naukri Campus Young Turks 2025:** Achieved 98.14 percentile in India's largest skill contest[cite: 160, 158].
+**AWS Academy Graduate - AWS Academy Data Engineering** 
+* **NVIDIA-Certified Professional: AI Infrastructure (NCP-AII)** 
+* **AI Skills Passport** (EY & Microsoft) 
+* **Data Analytics Job Simulation** (TATA Group/Forage) 
+* **Micro-Certification - Welcome to ServiceNow** 
+* **Naukri Campus Young Turks 2025:** Achieved 98.14 percentile in India's largest skill contest.
 
 ---
 
